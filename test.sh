@@ -1,1 +1,1 @@
-echo "we successfully trigger post build action"
+echo "we successfully trigger post build action!"
